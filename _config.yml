@@ -12,3 +12,9 @@ kramdown:
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: theRadGaul
+description: Hear ye, gallant souls, as I unveil my digital tome, wherein the boundless treasury of my sagacity resides. Within this ethereal realm, I unveil the hallowed repository that encapsulates the quintessence of my noble odyssey.
+show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
